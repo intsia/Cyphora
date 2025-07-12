@@ -4,8 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1fcab95-dbcd-4c35-bf6e-2e2ad0699f51" name="Changes" comment="Added doc folder&#10;Updated gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b1fcab95-dbcd-4c35-bf6e-2e2ad0699f51" name="Changes" comment="Obsidian settings and plugins">
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/community-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/calendar/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/calendar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/calendar/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/dataview/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/dataview/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/dataview/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-diagrams-net/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-diagrams-net/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-excalidraw-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-excalidraw-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-excalidraw-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-style-settings/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-style-settings/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-style-settings/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-tasks-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-tasks-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/obsidian-tasks-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/table-editor-obsidian/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/table-editor-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/table-editor-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/plugins/table-editor-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/.obsidian/types.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Без названия.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/doc/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/doc/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752329878541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove .obsidian from .gitignore">
+      <created>1752330143724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752330143724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +121,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0.0" />
     <MESSAGE value="Added doc folder&#10;Updated gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added doc folder&#10;Updated gitignore" />
+    <MESSAGE value="Remove .obsidian from .gitignore" />
+    <MESSAGE value="Obsidian settings and plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Obsidian settings and plugins" />
   </component>
 </project>
